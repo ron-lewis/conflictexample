@@ -1,0 +1,7 @@
+r <- function(something){
+
+	do something to something
+	do more stuff
+	return something else
+
+}
