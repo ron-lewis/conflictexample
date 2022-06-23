@@ -1,7 +1,7 @@
 r <- function(something){
 
 	do thing to thing
+	do many somethings to many other something
 	do more stuff
 	return something else
-
 }
