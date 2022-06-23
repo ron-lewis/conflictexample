@@ -1,6 +1,6 @@
 r <- function(something){
 
-	do something to something
+	do thing to thing
 	do more stuff
 	return something else
 
